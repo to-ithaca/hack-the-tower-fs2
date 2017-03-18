@@ -1,6 +1,6 @@
 name := "authentication-service"
 
-scalaVersion := "2.12.0"
+scalaVersion := "2.12.1"
 
 organization := "org.typelevel"
 
